@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.09d68bbe.chunk.css",
+    "main.js": "/static/js/main.b3861449.chunk.js",
+    "main.js.map": "/static/js/main.b3861449.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7b49a62c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7b49a62c.js.map",
+    "static/js/2.a473b1f0.chunk.js": "/static/js/2.a473b1f0.chunk.js",
+    "static/js/2.a473b1f0.chunk.js.map": "/static/js/2.a473b1f0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ae1752512e64fce1751cc178cf2aef94.js": "/precache-manifest.ae1752512e64fce1751cc178cf2aef94.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.09d68bbe.chunk.css.map": "/static/css/main.09d68bbe.chunk.css.map",
+    "static/js/2.a473b1f0.chunk.js.LICENSE.txt": "/static/js/2.a473b1f0.chunk.js.LICENSE.txt",
+    "static/media/79952-successful.gif": "/static/media/79952-successful.60de8662.gif",
+    "static/media/ecobank.png": "/static/media/ecobank.16ceb09f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b49a62c.js",
+    "static/js/2.a473b1f0.chunk.js",
+    "static/css/main.09d68bbe.chunk.css",
+    "static/js/main.b3861449.chunk.js"
+  ]
+}
